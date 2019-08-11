@@ -1,0 +1,16 @@
+{
+  "name": "B_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/pages/index.html",
+    "prod": "parcel build src/pages/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.22.9"
+  }
+}

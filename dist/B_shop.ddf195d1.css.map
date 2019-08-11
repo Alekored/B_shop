@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\assets\\sass\\main.scss"],"names":[],"mappings":"AAEA;EACI,kBAHG","file":"B_shop.ddf195d1.css","sourceRoot":"..\\src\\pages","sourcesContent":["$color:blue;\r\n\r\nbody{\r\n    background-color: $color;\r\n}"]}
