@@ -1,0 +1,132 @@
+@import "../scaffolding.scss";
+@import "../variables.scss";
+
+.news{
+    
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    color: black;
+    background-color: $bg-lightgrey;
+    // z-index: 2;
+    
+
+//     &::before{
+//         content: '';
+    
+//     width: 52%;
+//     height: 100px;
+//     position: absolute;
+//     top: -60px;
+//     left: 0px;
+//     background-color: $bg-lightgrey ;
+//     transform: skewY(11deg);
+//     z-index: 1;
+    
+//     }
+//     &:after{
+//         content: '';
+//     width: 52%;
+//     height: 100px;
+//     position: absolute;
+//     top: -60px;
+//     right: 0px;
+//     background-color:$bg-lightgrey;
+//     transform: skewY(-11deg);
+//     z-index: 1;
+//     }
+}
+
+.news__wrapper{
+   
+    padding-top: 34px;
+    margin: 0 auto;
+    width: 280px;
+    border:  0.4px solid green;
+    margin-bottom: 40px;
+
+}
+
+.news__list{
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style-type: none;
+    border: 0.5px solid blue;
+    
+
+}
+.news__item{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 0.4px solid palevioletred;
+}
+
+.news__item p{
+  
+    
+    width: 210px;
+    // width: 100%;
+    line-height: 27px;
+    text-align: justify;
+    border: 0.4px solid red;
+}
+.news__day{
+    @font-face {
+        font-family: "PTSansNarrow";
+        src: url("/../../src/assets/fonts/PTSansNarrow.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrow.woff") format("woff");
+    }
+    // font-size: 30px;
+    // padding: 14px; 
+}
+
+.news__date{
+   
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    
+    font-size: 16px;
+    border: 0.4px solid pink; 
+  
+    display: inline-block;
+    background-color: black;
+    color: white;
+    
+    position:relative;
+    &:before{
+        content: '';
+        
+        position: absolute;
+        left: 4%;
+        // width: 14px;
+        bottom: -33px;
+        border: 24px solid transparent;
+        border-top: 10px solid black;
+    }
+}
+
+.news__title{
+    margin: 0;
+    position: relative;
+    text-align: center;
+    z-index: 2;
+}
+.slider__rectangle{
+display: flex;
+
+height: auto;
+width: 100%;
+background-color: $bg-darkgrey;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+text-align: center;
+}
+#svg__vector{
+    width: 100%;
+    height: auto;
+}

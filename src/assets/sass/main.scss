@@ -1,5 +1,8 @@
-@import "variables.scss";
-@import "scaffolding.scss";
+@import "../sass/variables.scss";
+@import "../sass/scaffolding.scss";
 @import "../sass/blocks/page-header.scss";
 @import "../sass/blocks/main-nav.scss";
 @import "../sass/blocks/stats.scss";
+@import "../sass/blocks/site-list.scss";
+@import "../sass/blocks/user-list.scss";
+@import "../sass/blocks/advantages.scss";
