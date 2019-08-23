@@ -38,12 +38,11 @@
 }
 
 .news__wrapper{
-   
     padding-top: 34px;
     margin: 0 auto;
     width: 280px;
-    border:  0.4px solid green;
-    margin-bottom: 40px;
+    // border:  0.4px solid green;
+   
 
 }
 
@@ -54,7 +53,7 @@
     padding: 0;
     width: 100%;
     list-style-type: none;
-    border: 0.5px solid blue;
+    // border: 0.5px solid blue;
     
 
 }
@@ -62,7 +61,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    border: 0.4px solid palevioletred;
+    // border: 0.4px solid palevioletred;
 }
 
 .news__item p{
@@ -72,16 +71,16 @@
     // width: 100%;
     line-height: 27px;
     text-align: justify;
-    border: 0.4px solid red;
+    // border: 0.4px solid red;
 }
-.news__day{
-    @font-face {
-        font-family: "PTSansNarrow";
-        src: url("/../../src/assets/fonts/PTSansNarrow.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrow.woff") format("woff");
-    }
-    // font-size: 30px;
-    // padding: 14px; 
-}
+// .news__day{  
+//     // @font-face {
+//     //     font-family: "PTSansNarrow";
+//     //     src: url("/../../src/assets/fonts/PTSansNarrow.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrow.woff") format("woff");
+//     // }
+//     // font-size: 30px;
+//     // padding: 14px; 
+// }
 
 .news__date{
    
@@ -90,9 +89,9 @@
     height: 50px;
     
     font-size: 16px;
-    border: 0.4px solid pink; 
+    // border: 0.4px solid pink; 
   
-    display: inline-block;
+    display: inline-block;  
     background-color: black;
     color: white;
     
@@ -101,11 +100,11 @@
         content: '';
         
         position: absolute;
-        left: 4%;
+        left: 2%;
         // width: 14px;
-        bottom: -33px;
-        border: 24px solid transparent;
-        border-top: 10px solid black;
+        bottom: -34px;
+        border: 25px solid transparent;
+        border-top: 9px solid black;
     }
 }
 
@@ -115,18 +114,11 @@
     text-align: center;
     z-index: 2;
 }
-.slider__rectangle{
-display: flex;
 
-height: auto;
-width: 100%;
-background-color: $bg-darkgrey;
-background-repeat: no-repeat;
-background-size: cover;
-overflow: hidden;
-text-align: center;
+.news__to-all{
+
+    // font-family: "PT Sans Narrow";
+    margin-bottom: 28px; /////?????????///////
 }
-#svg__vector{
-    width: 100%;
-    height: auto;
-}
+
+

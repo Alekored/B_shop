@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\bg-header.jpg":[["bg-header.97a4ff99.jpg","../assets/img/bg-header.jpg"],"../assets/img/bg-header.jpg"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\logotype-tablet.svg":[["logotype-tablet.c7a08afb.svg","../assets/img/logotype-tablet.svg"],"../assets/img/logotype-tablet.svg"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\logotype-desktop.svg":[["logotype-desktop.0bb5ac2c.svg","../assets/img/logotype-desktop.svg"],"../assets/img/logotype-desktop.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/variables.scss":[function(require,module,exports) {
+},{"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\bg-header.jpg":[["bg-header.97a4ff99.jpg","../assets/img/bg-header.jpg"],"../assets/img/bg-header.jpg"],"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\logotype-tablet.svg":[["logotype-tablet.c7a08afb.svg","../assets/img/logotype-tablet.svg"],"../assets/img/logotype-tablet.svg"],"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\logotype-desktop.svg":[["logotype-desktop.0bb5ac2c.svg","../assets/img/logotype-desktop.svg"],"../assets/img/logotype-desktop.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/variables.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
@@ -199,42 +199,52 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/page-header.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/page-header.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\bg-header.jpg":[["bg-header.97a4ff99.jpg","../assets/img/bg-header.jpg"],"../assets/img/bg-header.jpg"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\logotype-tablet.svg":[["logotype-tablet.c7a08afb.svg","../assets/img/logotype-tablet.svg"],"../assets/img/logotype-tablet.svg"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\img\\logotype-desktop.svg":[["logotype-desktop.0bb5ac2c.svg","../assets/img/logotype-desktop.svg"],"../assets/img/logotype-desktop.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/main-nav.scss":[function(require,module,exports) {
+},{"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\bg-header.jpg":[["bg-header.97a4ff99.jpg","../assets/img/bg-header.jpg"],"../assets/img/bg-header.jpg"],"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\logotype-tablet.svg":[["logotype-tablet.c7a08afb.svg","../assets/img/logotype-tablet.svg"],"../assets/img/logotype-tablet.svg"],"C:\\Users\\Home\\Desktop\\B_shop\\src\\assets\\img\\logotype-desktop.svg":[["logotype-desktop.0bb5ac2c.svg","../assets/img/logotype-desktop.svg"],"../assets/img/logotype-desktop.svg"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/main-nav.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/stats.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/stats.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/site-list.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/site-list.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/user-list.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/user-list.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/advantages.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/advantages.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/news.scss":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/news.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff2":[["PTSansNarrow.f6db76ed.woff2","../assets/fonts/PTSansNarrow.woff2"],"../assets/fonts/PTSansNarrow.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrow.woff":[["PTSansNarrow.13d2bc0a.woff","../assets/fonts/PTSansNarrow.woff"],"../assets/fonts/PTSansNarrow.woff"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff2":[["PTSansNarrowBold.9365652c.woff2","../assets/fonts/PTSansNarrowBold.woff2"],"../assets/fonts/PTSansNarrowBold.woff2"],"C:\\Users\\Alexander\\Desktop\\B_shop\\src\\assets\\fonts\\PTSansNarrowBold.woff":[["PTSansNarrowBold.224339b1.woff","../assets/fonts/PTSansNarrowBold.woff"],"../assets/fonts/PTSansNarrowBold.woff"],"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../index.js":[function(require,module,exports) {
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/reviews.scss":[function(require,module,exports) {
+var reloadCSS = require('_css_loader');
+
+module.hot.dispose(reloadCSS);
+module.hot.accept(reloadCSS);
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../assets/sass/blocks/footer.scss":[function(require,module,exports) {
+var reloadCSS = require('_css_loader');
+
+module.hot.dispose(reloadCSS);
+module.hot.accept(reloadCSS);
+},{"_css_loader":"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../../index.js":[function(require,module,exports) {
 "use strict";
 
 require("./src/assets/sass/main.scss");
@@ -256,7 +266,11 @@ require("./src/assets/sass/blocks/user-list.scss");
 require("./src/assets/sass/blocks/advantages.scss");
 
 require("./src/assets/sass/blocks/news.scss");
-},{"./src/assets/sass/main.scss":"../assets/sass/main.scss","./src/assets/sass/variables.scss":"../assets/sass/variables.scss","./src/assets/sass/scaffolding.scss":"../assets/sass/scaffolding.scss","./src/assets/sass/blocks/page-header.scss":"../assets/sass/blocks/page-header.scss","./src/assets/sass/blocks/main-nav.scss":"../assets/sass/blocks/main-nav.scss","./src/assets/sass/blocks/stats.scss":"../assets/sass/blocks/stats.scss","./src/assets/sass/blocks/site-list.scss":"../assets/sass/blocks/site-list.scss","./src/assets/sass/blocks/user-list.scss":"../assets/sass/blocks/user-list.scss","./src/assets/sass/blocks/advantages.scss":"../assets/sass/blocks/advantages.scss","./src/assets/sass/blocks/news.scss":"../assets/sass/blocks/news.scss"}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+
+require("./src/assets/sass/blocks/reviews.scss");
+
+require("./src/assets/sass/blocks/footer.scss");
+},{"./src/assets/sass/main.scss":"../assets/sass/main.scss","./src/assets/sass/variables.scss":"../assets/sass/variables.scss","./src/assets/sass/scaffolding.scss":"../assets/sass/scaffolding.scss","./src/assets/sass/blocks/page-header.scss":"../assets/sass/blocks/page-header.scss","./src/assets/sass/blocks/main-nav.scss":"../assets/sass/blocks/main-nav.scss","./src/assets/sass/blocks/stats.scss":"../assets/sass/blocks/stats.scss","./src/assets/sass/blocks/site-list.scss":"../assets/sass/blocks/site-list.scss","./src/assets/sass/blocks/user-list.scss":"../assets/sass/blocks/user-list.scss","./src/assets/sass/blocks/advantages.scss":"../assets/sass/blocks/advantages.scss","./src/assets/sass/blocks/news.scss":"../assets/sass/blocks/news.scss","./src/assets/sass/blocks/reviews.scss":"../assets/sass/blocks/reviews.scss","./src/assets/sass/blocks/footer.scss":"../assets/sass/blocks/footer.scss"}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -284,7 +298,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "8507" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56155" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

@@ -3,19 +3,20 @@
 
 
 
-@font-face {
-  font-weight: normal;
-  font-family: "PT Sans Narrow";
-  font-style: normal;
-  src: url("/../../src/assets/fonts/PTSansNarrow.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrow.woff") format("woff");
-}
+// @font-face {
+//   font-weight: normal;
+//   font-family: "PT Sans Narrow";
+//   font-style: normal;
+//   src: url("../assets/fonts/PTSansNarrow.woff2") format("woff2"), 
+//        url("../fonts/PTSansNarrow.woff2") format("woff");
+// }
 
-@font-face {
-  font-weight: bold;
-  font-family: "PT Sans Narrow";
-  font-style: normal;
-  src: url("/../../src/assets/fonts/PTSansNarrowBold.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrowBold.woff") format("woff");
-}
+// @font-face {
+//   font-weight: bold;
+//   font-family: "PT Sans Narrow";
+//   font-style: normal;
+//   src: url('../../../assets/fonts/PTSansNarrowBold.woff2') format("woff2"), url('../../../assets/fonts/PTSansNarrowBold.woff') format("woff");
+// }
 
 body {
     min-width: 320px;
@@ -24,7 +25,7 @@ body {
   
     font-size: 18px;
     line-height: 27px;
-    font-family: "Arial", sans-serif;
+    font-family: "PT Sans Narrow", sans-serif;
     color: #f7f4f1;
     font-style: normal;
   
@@ -45,9 +46,7 @@ body {
     margin: -1px;
     border: 0;
     padding: 0;
-  
     white-space: nowrap;
-  
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
@@ -55,21 +54,28 @@ body {
 
   .button{
     display: inline-block;
- 
     width: 280px;
     padding: 11px 0px;
-
     text-decoration:none;
     color: black;
     text-align: center;
-    
     cursor: pointer;
     text-transform: uppercase;
-
     font-weight: bold;
     font-size: 10px;
     
-    // border: 1px solid tan;
+    border: 1px solid tan;
   }
 
+  .copyright__link{
+    // display: inline-block;
+    width: 280px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    
+  }
 
+  .social{
+list-style-type: none;
+  }
