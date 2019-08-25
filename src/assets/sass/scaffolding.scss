@@ -2,12 +2,11 @@
 @import "variables.scss";
 
 
-
 // @font-face {
 //   font-weight: normal;
 //   font-family: "PT Sans Narrow";
 //   font-style: normal;
-//   src: url("../assets/fonts/PTSansNarrow.woff2") format("woff2"), 
+//   src: url("../fonts/PTSansNarrow.woff2") format("woff2"), 
 //        url("../fonts/PTSansNarrow.woff2") format("woff");
 // }
 
@@ -53,7 +52,7 @@ body {
   }
 
   .button{
-    display: inline-block;
+    display: block;
     width: 280px;
     padding: 11px 0px;
     text-decoration:none;
@@ -64,9 +63,22 @@ body {
     font-weight: bold;
     font-size: 10px;
     
-    border: 1px solid tan;
+    border: 1px solid $border;
   }
-
+  .button__rev{
+    // display: inline-block;
+    width: 280px;
+    padding: 11px 0px;
+    text-decoration:none;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px;
+    
+    border: 1px solid $border;
+  }
   .copyright__link{
     // display: inline-block;
     width: 280px;

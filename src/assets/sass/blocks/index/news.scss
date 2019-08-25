@@ -1,5 +1,5 @@
-@import "../scaffolding.scss";
-@import "../variables.scss";
+@import "../../scaffolding.scss";
+@import "../../variables.scss";
 
 .news{
     
@@ -42,8 +42,6 @@
     margin: 0 auto;
     width: 280px;
     // border:  0.4px solid green;
-   
-
 }
 
 .news__list{
@@ -54,8 +52,6 @@
     width: 100%;
     list-style-type: none;
     // border: 0.5px solid blue;
-    
-
 }
 .news__item{
     display: flex;
@@ -65,35 +61,26 @@
 }
 
 .news__item p{
-  
-    
     width: 210px;
     // width: 100%;
+    
     line-height: 27px;
-    text-align: justify;
+    text-align: left;
     // border: 0.4px solid red;
 }
-// .news__day{  
-//     // @font-face {
-//     //     font-family: "PTSansNarrow";
-//     //     src: url("/../../src/assets/fonts/PTSansNarrow.woff2") format("woff2"), url("/../../src/assets/fonts/PTSansNarrow.woff") format("woff");
-//     // }
-//     // font-size: 30px;
-//     // padding: 14px; 
-// }
 
 .news__date{
-   
+    display: flex;  
+    flex-direction: column;
     margin-top: 20px;
+  
     width: 50px;
     height: 50px;
-    
-    font-size: 16px;
+ 
     // border: 0.4px solid pink; 
-  
-    display: inline-block;  
     background-color: black;
     color: white;
+    text-align: center;
     
     position:relative;
     &:before{
@@ -108,6 +95,13 @@
     }
 }
 
+.news__day{
+    font-size: 30px;
+    margin: 0 auto;
+    height: 30px;
+    // width: 100%;
+    text-align: center;
+}
 .news__title{
     margin: 0;
     position: relative;
@@ -115,10 +109,80 @@
     z-index: 2;
 }
 
-.news__to-all{
+// .news__to-all{
+//     // font-family: "PT Sans Narrow";
+//     margin-bottom: 28px; /////?????????///////
+// }
 
-    // font-family: "PT Sans Narrow";
-    margin-bottom: 28px; /////?????????///////
+
+
+
+@media (min-width: $tablet-width) {
+
+.news{
+    width:100%;
 }
 
+.news__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    margin: 0 auto;
+    padding: 42px 0px 0px 0px;
+    // border: 0.4px solid red;
+    justify-content: space-between;
+}
+.news__list{
+    display: flex;
+    order: 1;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+
+.news__item{
+justify-content: stretch;
+   margin: 0;
+   padding: 0;
+    // border: 0.4px solid blue;
+    &:nth-child(3n){
+        display:none;
+    }
+    &:nth-child(2){
+        .news__text {
+            color: transparent;
+        }
+        &:after{
+            position: absolute;
+            width: 218px;
+            content: 'В нашей команде пополнение, Борис «Бритва» Стригунец, пополнил наши стройные ряды. Спешите записаться!';
+            color:black;
+            margin-left: 74px;
+        }
+    }
+}
+
+.news__title{
+    padding-top: 10px;
+    margin: 0;
+    font-size:40px;
+    text-transform: uppercase;
+}
+.news__text{
+    padding: 0;
+    margin: 0px 0px 0px 21px;
+    // border: 1px solid red;
+}
+.news__date{
+    margin-top: 10px;
+   
+}
+.news__to-all{
+    margin-bottom: 50px;
+    // margin: 0;
+    // padding: 0;
+}
+
+}
 

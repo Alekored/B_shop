@@ -1,5 +1,5 @@
-@import "../scaffolding.scss";
-@import "../variables.scss";
+@import "../../scaffolding.scss";
+@import "../../variables.scss";
 
 
 .advantages{
@@ -122,6 +122,66 @@
     }
     
 
+    @media (min-width: $tablet-width) {
+        .slider__toggle{
+            display: none;
+        }
+        .advantages{
+            width:  100%;
+        }
+        .advantages__wrapper{
+            width: 640px;
+        }
+        .advantages__list{
+            width: 100%;  
+        }
+        .advantages__item{
+            display: flex;
+            position: relative;
+            height: 177px;
+
+        &:nth-child(-n+2){
+           margin: 0 auto;
+        &::before{
+            content : "";
+            position: absolute;
+            left    : 37px;
+            bottom  : 0;
+            height  : 1px;
+            width   : 568px;  
+            border-bottom: 1px solid rgba(247, 244, 241, 0.1);;
+        }
+    }
+}
+        .advantages__item__wrapper h3{
+                font-size: 30px;
+                text-align: left;
+                margin: 0;    
+        }
+        .advantages__description {
+            padding-top: 20px;
+            margin: 0;
+            text-align: left;
+            font-size: 20px;
+            line-height: 27px;
+        }
+        .advantages__item__wrapper{
+            display: flex;
+            height: 95px;
+            margin-top: 42px;
+        }
+        .advantages__item__wrapper__two{
+                display: flex;  
+                flex-wrap: wrap;
+                margin-left: 34px;
+                  width: 450px;
+        }
+        .advantages__item img{
+            margin: 0;
+            padding-left: 31px;
+        }
+        
+    }
 
 
 

@@ -101,30 +101,40 @@
             <h2 class="visually-hidden">Наши преимущества</h2>
             <ul class="advantages__list slider__list">
               <li class="advantages__item advantages__item--fast slider__item">
+                  <div class="advantages__item__wrapper">
                 <img src="/../../src/assets/img/advantage-1.svg" width="95" height="94" alt="Быстро" class="advantages__image slider__image">
-                <h3 class="advantages__title">Быстро</h3>
+                  <div class="advantages__item__wrapper__two">
+                  <h3 class="advantages__title">Быстро</h3>
                 <p class="advantages__description">Мы делаем свою работу быстро! Два часа пролетят незаметно и вы — счастливый обладатель стильной стрижки-минутки.</p>
+              </div>
+              </div>
               </li>
-              <!-- <li class="advantages__item advantages__item--cool slider__item">
-                  <img src="/../../src/assets/img/advantage-2.svg" width="95" height="94" alt="Круто" class="advantages__image slider__image">
-                <h3 class="advantages__title">Круто</h3>
+              <li class="advantages__item advantages__item--cool slider__item">
+                  <div class="advantages__item__wrapper">  
+                <img src="/../../src/assets/img/advantage-2.svg" width="95" height="94" alt="Круто" class="advantages__image slider__image">
+                  <div class="advantages__item__wrapper__two">
+                  <h3 class="advantages__title">Круто</h3>
                 <p class="advantages__description">Забудьте, как вы стриглись раньше. Мы сделаем из вас звезду футбола или кино. Во всяком случае внешне.</p>
+                </div>
+              </div>
               </li>
               <li class="advantages__item advantages__item--price slider__item">
-                  <img src="/../../src/assets/img/advantage-3.svg" width="95" height="94" alt="Дорого" class="advantages__image slider__image">
-                <h3 class="advantages__title">Дорого</h3>
+                  <div class="advantages__item__wrapper">
+                <img src="/../../src/assets/img/advantage-3.svg" width="95" height="94" alt="Дорого" class="advantages__image slider__image">
+                <div class="advantages__item__wrapper__two">
+                  <h3 class="advantages__title">Дорого</h3>
                 <p class="advantages__description">Наши мастера — профессионалы своего дела и не могут стоить дёшево. К тому же, разве цена не даёт определённый статус?</p>
-              </li> -->
+              </div>
+            </div>
+              </li>
             </ul>
             <p class="advantages__toggles slider__toggles">
               <button class="slider__toggle slider__toggle-active" type="button"></button>
               <button class="slider__toggle" type="button"></button>
               <button class="slider__toggle" type="button"></button>
             </p>
-           
           </div>
           <div class="slider__rectangle--advantages">
-              <!-- <img src="/../../src/assets/img/mobile-vector.svg" height="auto" width="100%" alt=""> -->
               <svg id="svg__vector" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 34.07"><defs>
                   <style>.cls-1{fill: #f8f5f2;}</style></defs>
                   <title>mobile-vector</title>
@@ -136,18 +146,16 @@
        
       
       <section class="news">
-        
           <div class="news__wrapper">
             <h2 class="news__title">Новости и акции</h2>
             <ul class="news__list">
               <li class="news__item">
-                <!-- <span class="news_date__flag"> -->
-                  <div class="news__date" >
-                  <b class="news__day">29</b>сент 
-                  </div>
-              <!-- </span> -->
+                  <time class="news__date" >
+                    <b class="news__day">29</b>сент
+                    <!-- <b class="news__month">сент</b>  -->
+                  </time>
                 <p class="news__text">Нам наконец-то завезли Егермейстер! Теперь вы можете пропустить стаканчик во время стрижки.</p>  
-        </li>
+            </li>
                <li class="news__item">
                 <time class="news__date" datetime="2017-09-19">
                   <b class="news__day">19</b> сент
@@ -168,7 +176,7 @@
         <section class="reviews">
           <div class="reviews__wrapper slider--reviews">
             <h2 class="reviews__title">Отзывы о нас</h2>
-            <!-- <a class="reviews__write button" href="#">Оставить свой</a> -->
+            <a class="reviews__write button__rev" href="#">Оставить свой</a>
             <div class="reviews__list  slider__list--reviews">
               <blockquote class="reviews__item  slider__item--reviews">
                 <p class="reviews__author-picture">
@@ -192,9 +200,23 @@
                 </p>
                 <cite class="reviews__author-name">Иван Бородайло</cite>
                 <p class="reviews__text">В Бородинском ваша борода в надёжных руках!</p>
-              </blockquote>
-              <button class="reviews__prev" type="button">Предыдущий отзыв</button>
-              <button class="reviews__next" type="button">Следующий отзыв</button> -->
+              </blockquote> -->
+              <button class="reviews__prev" type="button">
+                  <!-- <img class="button__image" src="../assets/img/left-arrow.svg" height="12" width="12"> -->
+                  <svg class="left-arrow" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><defs>
+                    <style>.left-arrow{fill:#292929;}</style></defs>
+                    <title>left-arrow</title>
+                    <polygon class="left-arrow" points="12 12 0 6 12 0 12 12"/>
+                  </svg>
+              </button>
+              <button class="reviews__next" type="button">
+                  <!-- <img class="button__image" src="../assets/img/right-arrow.svg" height="12" width="12"> -->
+                  <svg class="right-arrow" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><defs>
+                      <style>.right-arrow{fill:#292929;}</style></defs>
+                      <title>right-arrow</title>
+                      <polygon class="right-arrow" points="12 12 0 6 12 0 12 12"/>
+                    </svg>
+                </button>
             </div>
             <p class="reviews__toggles slider__toggles">
               <button class="slider__toggle slider__toggle-active" type="button"></button>
@@ -215,7 +237,7 @@
         </section>
       </main>
       
-      <footer class="page-footer">
+      <!-- <footer class="page-footer">
         <div class="page-footer__wrapper">
           <div class="page-footer__contacts contacts">
             <b class="contacts__title">Барбершоп «Бородинский»</b>
@@ -227,21 +249,25 @@
             </p>
           </div>
           <div class="page-footer__social social">
-            <!-- <b class="social__title">Давайте дружить!</b> -->
+            <b class="social__title">Давайте дружить!</b>
             <ul class="social__list">
               <li class="social__item">
                 <a class="social__link social__link--vkontakte" href="#">
-                  <!-- <img src="../assets/img/facebook-icon-big.png" alt=""> -->
+               
+                  <img class="social__pic" src="../assets/img/vk-icon-big.png" alt="">
+                
                 </a>
               </li>
               <li class="social__item">
                 <a class="social__link social__link--facebook" href="#">
-                    <img src="../assets/img/facebook-icon-big.png" alt="">
+                    <img class="social__pic" src="../assets/img/facebook-icon-big.png" alt="">
                 </a>
               </li>
               <li class="social__item">
                 <a class="social__link social__link--instagram" href="#">
-                   <img src="../assets/img/facebook-icon-big.png" alt="">
+                 
+                   <img class="social__pic" src="../assets/img/insta-icon-big.png" alt="">
+                  
                 </a>
               </li>
             </ul>
@@ -251,7 +277,7 @@
             <a class="button copyright__link" href="#">HTML Academy</a>
           </div>
         </div>
-      </footer>
+      </footer> -->
 
 
 
