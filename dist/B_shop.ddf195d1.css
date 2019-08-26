@@ -30,7 +30,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -38,12 +37,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -51,7 +50,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -98,7 +97,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -106,12 +104,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -119,7 +117,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -223,7 +221,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -231,12 +228,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -244,7 +241,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -449,7 +446,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -457,12 +453,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -470,7 +466,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -732,7 +728,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -740,12 +735,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -753,7 +748,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -827,7 +822,7 @@ img {
     padding: 0;
     padding-top: 25px;
     padding-bottom: 23px;
-    font-size: 12px;
+    font-size: 18px;
     background: none;
     border: none;
   }
@@ -903,7 +898,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -911,12 +905,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -924,7 +918,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1064,7 +1058,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1072,12 +1065,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1085,7 +1078,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1139,14 +1132,14 @@ img {
   font-size: 20px;
 }
 
-.slider__toggles {
+.advantages__toggles {
   display: block;
   margin: 0 auto 14;
   text-align: center;
   user-select: none;
 }
 
-.slider__toggle {
+.advantages__toggle {
   padding: 0;
   margin-left: 23px;
   width: 10px;
@@ -1155,7 +1148,7 @@ img {
   transform: rotate(45deg);
   border: 1px solid white;
 }
-.slider__toggle:hover {
+.advantages__toggle:hover {
   cursor: pointer;
 }
 
@@ -1179,7 +1172,7 @@ img {
 }
 
 @media (min-width: 768px) {
-  .slider__toggle {
+  .advantages__toggles {
     display: none;
   }
 
@@ -1277,7 +1270,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1285,12 +1277,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1298,7 +1290,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1435,43 +1427,75 @@ img {
 
   .reviews__wrapper {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    flex-wrap: wrap;
     width: 640px;
     margin: 0 auto;
-    padding: 0;
-    border: 0.4px solid red;
+    padding-bottom: 71px;
+    padding-top: 36px;
   }
 
   .reviews__list {
     display: flex;
     height: 160px;
-    border: 0.4px solid greenyellow;
   }
 
   .reviews__title {
+    text-align: left;
     width: 300px;
+    font-size: 40px;
     margin: 0;
     padding: 0;
+  }
+
+  .title__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .reviews__item {
+    width: 542px;
+    order: 2;
+    justify-content: left;
+    margin: 0;
+    padding: 0;
+  }
+
+  .slider__item__wrapper {
+    width: 350px;
+    padding-top: 32px;
+    margin-left: 30px;
+  }
+
+  .reviews__author-picture {
+    margin-left: 30px;
   }
 
   .reviews__write {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 36px;
   }
 
-  .reviews__item {
-    order: 2;
+  .button__rev {
+    font-size: 18px;
   }
 
   .reviews__item img {
+    border-radius: 50%;
+    margin-top: 18px;
     height: 80px;
     width: 80px;
-    border-radius: 50%;
   }
 
-  .reviews__item {
-    border: 0.4px solid red;
+  .reviews__author-name {
+    font-size: 24px;
+  }
+
+  .reviews__text {
+    padding-top: 10px;
+    margin: 0;
+    font-size: 18px;
+    line-height: 27px;
   }
 
   .reviews__prev {
@@ -1493,6 +1517,35 @@ img {
   .right-arrow {
     height: 10px;
     width: 10px;
+  }
+
+  .reviews__toggles {
+    position: absolute;
+    height: 30px;
+    text-align: center;
+    margin-top: 229px;
+    margin-left: 282px;
+    text-align: left;
+    user-select: none;
+  }
+
+  .reviews__toggles .slider__toggle {
+    width: 10px;
+    height: 10px;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f5f2;
+    transform: rotate(45deg);
+  }
+  .reviews__toggles .slider__toggle:not(:first-child) {
+    margin-left: 23px;
+  }
+  .reviews__toggles .slider__toggle:hover {
+    cursor: pointer;
+  }
+
+  .reviews__toggles .slider__toggle-active {
+    background-color: #292929;
   }
 }
 body {
@@ -1527,7 +1580,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1535,12 +1587,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1548,7 +1600,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1615,6 +1667,10 @@ footer {
   height: 100%;
 }
 
+.social__pic {
+  padding-top: 37px;
+}
+
 .page-footer__copyright {
   text-align: center;
   margin: 0 auto;
@@ -1651,7 +1707,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1659,12 +1714,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1672,7 +1727,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1718,7 +1773,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1726,12 +1780,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1739,7 +1793,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -1843,7 +1897,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1851,12 +1904,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -1864,7 +1917,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -2069,7 +2122,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2077,12 +2129,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2090,7 +2142,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -2352,7 +2404,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2360,12 +2411,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2373,7 +2424,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -2447,7 +2498,7 @@ img {
     padding: 0;
     padding-top: 25px;
     padding-bottom: 23px;
-    font-size: 12px;
+    font-size: 18px;
     background: none;
     border: none;
   }
@@ -2523,7 +2574,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2531,12 +2581,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2544,7 +2594,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -2684,7 +2734,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2692,12 +2741,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2705,7 +2754,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -2759,14 +2808,14 @@ img {
   font-size: 20px;
 }
 
-.slider__toggles {
+.advantages__toggles {
   display: block;
   margin: 0 auto 14;
   text-align: center;
   user-select: none;
 }
 
-.slider__toggle {
+.advantages__toggle {
   padding: 0;
   margin-left: 23px;
   width: 10px;
@@ -2775,7 +2824,7 @@ img {
   transform: rotate(45deg);
   border: 1px solid white;
 }
-.slider__toggle:hover {
+.advantages__toggle:hover {
   cursor: pointer;
 }
 
@@ -2799,7 +2848,7 @@ img {
 }
 
 @media (min-width: 768px) {
-  .slider__toggle {
+  .advantages__toggles {
     display: none;
   }
 
@@ -2898,7 +2947,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2906,12 +2954,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -2919,7 +2967,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -3061,6 +3109,7 @@ img {
   }
 
   .news__to-all {
+    width: 160px;
     margin-bottom: 50px;
   }
 }
@@ -3096,7 +3145,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -3104,12 +3152,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -3117,7 +3165,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -3254,43 +3302,75 @@ img {
 
   .reviews__wrapper {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    flex-wrap: wrap;
     width: 640px;
     margin: 0 auto;
-    padding: 0;
-    border: 0.4px solid red;
+    padding-bottom: 71px;
+    padding-top: 36px;
   }
 
   .reviews__list {
     display: flex;
     height: 160px;
-    border: 0.4px solid greenyellow;
   }
 
   .reviews__title {
+    text-align: left;
     width: 300px;
+    font-size: 40px;
     margin: 0;
     padding: 0;
+  }
+
+  .title__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .reviews__item {
+    width: 542px;
+    order: 2;
+    justify-content: left;
+    margin: 0;
+    padding: 0;
+  }
+
+  .slider__item__wrapper {
+    width: 350px;
+    padding-top: 32px;
+    margin-left: 30px;
+  }
+
+  .reviews__author-picture {
+    margin-left: 30px;
   }
 
   .reviews__write {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 36px;
   }
 
-  .reviews__item {
-    order: 2;
+  .button__rev {
+    font-size: 18px;
   }
 
   .reviews__item img {
+    border-radius: 50%;
+    margin-top: 18px;
     height: 80px;
     width: 80px;
-    border-radius: 50%;
   }
 
-  .reviews__item {
-    border: 0.4px solid red;
+  .reviews__author-name {
+    font-size: 24px;
+  }
+
+  .reviews__text {
+    padding-top: 10px;
+    margin: 0;
+    font-size: 18px;
+    line-height: 27px;
   }
 
   .reviews__prev {
@@ -3312,6 +3392,35 @@ img {
   .right-arrow {
     height: 10px;
     width: 10px;
+  }
+
+  .reviews__toggles {
+    position: absolute;
+    height: 30px;
+    text-align: center;
+    margin-top: 229px;
+    margin-left: 282px;
+    text-align: left;
+    user-select: none;
+  }
+
+  .reviews__toggles .slider__toggle {
+    width: 10px;
+    height: 10px;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f5f2;
+    transform: rotate(45deg);
+  }
+  .reviews__toggles .slider__toggle:not(:first-child) {
+    margin-left: 23px;
+  }
+  .reviews__toggles .slider__toggle:hover {
+    cursor: pointer;
+  }
+
+  .reviews__toggles .slider__toggle-active {
+    background-color: #292929;
   }
 }
 body {
@@ -3346,7 +3455,6 @@ img {
 
 .button {
   display: block;
-  width: 280px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -3354,12 +3462,12 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
 .button__rev {
-  width: 280px;
+  width: 160px;
   padding: 11px 0px;
   text-decoration: none;
   color: black;
@@ -3367,7 +3475,7 @@ img {
   cursor: pointer;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 18px;
   border: 1px solid #e5ddd5;
 }
 
@@ -3432,6 +3540,10 @@ footer {
   margin: 0 auto;
   width: 100%;
   height: 100%;
+}
+
+.social__pic {
+  padding-top: 37px;
 }
 
 .page-footer__copyright {
